@@ -51,7 +51,7 @@ func input() {
 }
 
 func pesan() {
-	if next == "y" {
+	if next == "y" || next == "Y" {
 		input()
 
 	} else {
